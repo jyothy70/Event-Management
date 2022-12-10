@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541484802069",
+    "project_id": "event-management-bc49f",
+    "storage_bucket": "event-management-bc49f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541484802069:android:ed16b49f6a0c167f1d2e1c",
+        "android_client_info": {
+          "package_name": "com.example.eventmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541484802069-f8vi8hraajdhld75m09qjmrdi67t679p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ioSM_KO5HNK8kZ3ObTxTasQTGlHjhAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541484802069-f8vi8hraajdhld75m09qjmrdi67t679p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
